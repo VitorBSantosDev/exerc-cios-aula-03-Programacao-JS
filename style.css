@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: goldenrod;
+    
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: indigo;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: lighter;
+    color: black;
+}
+
+.c-first-paragraph {
+    color: blue;
+}
+
+#c-strongest-rule {
+    color: red;
+}
