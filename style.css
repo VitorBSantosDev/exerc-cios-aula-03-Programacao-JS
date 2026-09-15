@@ -37,19 +37,37 @@ p {
     font-size: 1rem;
 }
 
+.c-second-paragraph {
+    color: black;
+    font-size: 1rem;
+}
+
+.c-third-paragraph {
+    color: black;
+    font-size: 1rem;
+}
+
+.c-fourth-paragraph {
+    color: blue;
+    font-size: 1rem;
+}
+
 .container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    background-color: lavender;
 }
 
 .container-px {
     display: flex;
-    flex-direction: row;
+    flex-direction: column-reverse;
     justify-content: space-between;
     align-items: center;
-    width: 500px;
+    width: 785px;
     padding: 50px 50px;
+    background-color: lightgoldenrodyellow;
+
 }
